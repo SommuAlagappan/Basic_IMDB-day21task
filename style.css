@@ -1,0 +1,39 @@
+.topnav{
+    display: flex;
+    padding:20px;
+    background-color: black;
+    color:white;
+    justify-content:center;
+    justify-content:space-evenly;
+    list-style-type: none;
+    
+}
+
+.imdb{
+    text-decoration: solid;
+    background-color: rgb(248, 182, 2);
+    font-weight: bold;
+    border-radius: 5px;
+    width: 70px;
+    font-size: larger;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.menu{
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace
+    
+}
+
+#details{
+    background-color: #363636;
+}
+
+.menu:hover {
+    text-shadow: 2px 2px 13px white;
+    cursor: pointer;
+    }
+
+    .star{
+        color: #FFCF00
+    }
